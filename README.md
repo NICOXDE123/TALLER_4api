@@ -45,7 +45,7 @@ Todas las rutas usan /usuario como endpoint:
 
 *OPTIONS /usuario → Muestra los métodos HTTP permitidos
 
-Pruebas
+//Pruebas//
 Puedes probar cada método usando herramientas como:
 
 -Postman
